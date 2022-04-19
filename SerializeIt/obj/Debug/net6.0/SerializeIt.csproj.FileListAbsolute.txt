@@ -1,0 +1,15 @@
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.csproj.AssemblyReference.cache
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.AssemblyInfoInputs.cache
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.AssemblyInfo.cs
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.csproj.CoreCompileInputs.cache
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\SerializeIt.exe
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\SerializeIt.deps.json
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\SerializeIt.runtimeconfig.json
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\SerializeIt.dll
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\ref\SerializeIt.dll
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\bin\Debug\net6.0\SerializeIt.pdb
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.dll
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\ref\SerializeIt.dll
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.pdb
+C:\VisualStudioProj\Consoleapps\Consoleapps\SerializeIt\obj\Debug\net6.0\SerializeIt.genruntimeconfig.cache
